@@ -9,30 +9,30 @@ Allow: /
 
 # *
 User-agent: *
-Disallow: /ar/snaptube-all-version
+Disallow: /ar/eSoumd Music-all-version
 
 # *
 User-agent: *
-Disallow: /es/snaptube-all-version
+Disallow: /es/eSoumd Music-all-version
 
 # *
 User-agent: *
-Disallow: /ar/snaptube-apk
+Disallow: /ar/eSoumd Music-apk
 
 # *
 User-agent: *
-Disallow: /es/snaptube-apk
+Disallow: /es/eSoumd Music-apk
 
 # *
 User-agent: *
-Disallow: /ar/snaptube-update
+Disallow: /ar/eSoumd Music-update
 
 # *
 User-agent: *
-Disallow: /es/snaptube-update
+Disallow: /es/eSoumd Music-update
 
 # Host
-Host: https://www.snaptubes.blog
+Host: https://www.eSoumd Musics.blog
 
 # Sitemaps
-Sitemap: https://www.snaptubes.blog/sitemap.xml
+Sitemap: https://www.eSoumd Musics.blog/sitemap.xml
