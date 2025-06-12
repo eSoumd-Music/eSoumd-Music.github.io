@@ -1,0 +1,38 @@
+# *
+User-agent: *
+Disallow: /en
+Disallow: /en/
+
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /ar/snaptube-all-version
+
+# *
+User-agent: *
+Disallow: /es/snaptube-all-version
+
+# *
+User-agent: *
+Disallow: /ar/snaptube-apk
+
+# *
+User-agent: *
+Disallow: /es/snaptube-apk
+
+# *
+User-agent: *
+Disallow: /ar/snaptube-update
+
+# *
+User-agent: *
+Disallow: /es/snaptube-update
+
+# Host
+Host: https://www.snaptubes.blog
+
+# Sitemaps
+Sitemap: https://www.snaptubes.blog/sitemap.xml
