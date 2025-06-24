@@ -9,30 +9,30 @@ Allow: /
 
 # *
 User-agent: *
-Disallow: /ar/eSoumd Music-all-version
+Disallow: /ar/iBeats Music-all-version
 
 # *
 User-agent: *
-Disallow: /es/eSoumd Music-all-version
+Disallow: /es/iBeats Music-all-version
 
 # *
 User-agent: *
-Disallow: /ar/eSoumd Music-apk
+Disallow: /ar/iBeats Music-apk
 
 # *
 User-agent: *
-Disallow: /es/eSoumd Music-apk
+Disallow: /es/iBeats Music-apk
 
 # *
 User-agent: *
-Disallow: /ar/eSoumd Music-update
+Disallow: /ar/iBeats Music-update
 
 # *
 User-agent: *
-Disallow: /es/eSoumd Music-update
+Disallow: /es/iBeats Music-update
 
 # Host
-Host: https://www.eSoumd Musics.blog
+Host: https://www.iBeats Musics.blog
 
 # Sitemaps
-Sitemap: https://www.eSoumd Musics.blog/sitemap.xml
+Sitemap: https://www.iBeats Musics.blog/sitemap.xml
