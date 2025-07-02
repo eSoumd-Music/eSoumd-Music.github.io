@@ -9,30 +9,30 @@ Allow: /
 
 # *
 User-agent: *
-Disallow: /ar/iBeats Music-all-version
+Disallow: /ar/VibeBox Music-all-version
 
 # *
 User-agent: *
-Disallow: /es/iBeats Music-all-version
+Disallow: /es/VibeBox Music-all-version
 
 # *
 User-agent: *
-Disallow: /ar/iBeats Music-apk
+Disallow: /ar/VibeBox Music-apk
 
 # *
 User-agent: *
-Disallow: /es/iBeats Music-apk
+Disallow: /es/VibeBox Music-apk
 
 # *
 User-agent: *
-Disallow: /ar/iBeats Music-update
+Disallow: /ar/VibeBox Music-update
 
 # *
 User-agent: *
-Disallow: /es/iBeats Music-update
+Disallow: /es/VibeBox Music-update
 
 # Host
-Host: https://www.iBeats Musics.blog
+Host: https://www.VibeBox Musics.blog
 
 # Sitemaps
-Sitemap: https://www.iBeats Musics.blog/sitemap.xml
+Sitemap: https://www.VibeBox Musics.blog/sitemap.xml
