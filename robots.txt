@@ -4,6 +4,10 @@ Disallow: /en
 Disallow: /en/
 
 # *
+User-agent: Google-adstxt
+Disallow:
+
+# *
 User-agent: *
 Allow: /
 
